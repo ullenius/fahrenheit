@@ -10,7 +10,7 @@ Usage: fahrenheit temperature
 ```
 
 For example:
-```c
-./fahrenheit 85
+```sh
+$ ./fahrenheit 85
 85.00 degrees Fahrenheit is 29.44 Celsius
 ```

@@ -10,6 +10,6 @@ int main(int argc, char *argv[]) {
 
     const float fahrenheit = atof(argv[1]);
     const float celsius = (fahrenheit - 32) * (5.0/9);
-    printf("%.2f degrees Fahrenheit is: %.2f Celsius",fahrenheit,celsius);
+    printf("%.2f degrees Fahrenheit is: %.2f Celsius\n",fahrenheit,celsius);
     return 0;
 }
